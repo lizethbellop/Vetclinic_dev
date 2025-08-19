@@ -1,0 +1,48 @@
+# ---- Archivos de macOS ----
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ---- NetBeans ----
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# ---- Archivos compilados ----
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# ---- Logs ----
+*.log
+
+# ---- Archivos temporales ----
+*.tmp
+*.swp
+*.bak
+*~
+
+# ---- Configuración IDEs comunes ----
+# IntelliJ IDEA
+.idea/
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Eclipse
+.settings/
+.classpath
+.project
