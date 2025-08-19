@@ -46,3 +46,17 @@ nbdist/
 .settings/
 .classpath
 .project
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# macOS
+.DS_Store
